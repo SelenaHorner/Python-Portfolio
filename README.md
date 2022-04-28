@@ -4,3 +4,4 @@
 - The learning goal was to learn Python and use Jupyter notebook.
 - The tasks within the project included exploratory data analysis, data wrangling, data consistency checks, combining/exporting data, deriving new variables, grouping/aggregating and performing basic visualization.
 - The final deliverable was to assist the marketing team with busiest days and hours for orders, popular products, and profitable customers.
+- Please note: I am unable to upload all my files due to memory size. Prepared data and analysis folders are not included.
