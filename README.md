@@ -1,2 +1,2 @@
 # Pythonprojects
-Test for class
+Completing a class requirement
